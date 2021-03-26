@@ -1,6 +1,6 @@
 {
     "name": "hide-username",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Utility to replace all characters of the current user's username with an asterisk",
     "main": "index.js",
     "repository": "https://github.com/naturecodevoid/hide-username",
