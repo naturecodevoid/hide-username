@@ -7,7 +7,9 @@
     "repository": "https://github.com/naturecodevoid/hide-username",
     "author": "naturecodevoid",
     "license": "MIT",
-    "files": [],
+    "files": [
+        "index.d.ts"
+    ],
     "dependencies": {
         "username": "^5.1.0"
     }
