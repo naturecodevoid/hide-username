@@ -1,5 +1,5 @@
-module.exports = (string) => {
+module.exports = (path) => {
     const username = require("username").sync();
 
-    return string.split(username).join("*".repeat(username.length));
+    return path.split(username).join("*".repeat(username.length));
 };
